@@ -1,2 +1,2 @@
 # test-esoc
-Practice Repo from EOSC trianing
+Practice Repo from EOSC Training
